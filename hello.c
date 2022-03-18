@@ -1,5 +1,5 @@
 main()
 {
 	printf("Hello World!\n");
-	printf("THIS IS NOT PYTHON.")
+	printf("THIS IS NOT PYTHON.");
 }
